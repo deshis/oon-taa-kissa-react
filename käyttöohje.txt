@@ -1,0 +1,14 @@
+1) lataa python 3.6.4 ja seuraavat kirjastot:
+
+Flask==1.1.1
+Flask_Cors==3.0.8
+Keras==2.1.5
+imageai==2.1.5
+Werkzeug==1.0.0
+tensorflow==1.5.1
+
+2) käynnistä oontääkissa.py
+
+3) kirjoita komento "npm start" react -kansiossa
+
+sivuston pitäisi nyt toimia :)
